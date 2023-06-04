@@ -32,4 +32,4 @@ Este é um agregador de links para usar como cartão de visitas online.
 
 Você pode visualizar o layout do projeto original através <a href="https://www.figma.com/community/file/1187422022288947321">DESSE LINK</a>. É necessário ter conta no Figma para acessá-lo.
 
-<p align="center">Projeto feito com ♥ por Shana Kelly</p>
+<p align="center">Projeto feito com ♥ por Shana Kelly</p># qqueromaisdoce
